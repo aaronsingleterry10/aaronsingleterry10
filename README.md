@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronsingleterry10&count_private=true)
-
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronsingleterry10)](https://github.com/aaronsingleterry10/github-readme-stats)
 
 <!--
