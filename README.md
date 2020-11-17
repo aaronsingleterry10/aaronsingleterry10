@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronsingleterry10)](https://github.com/aaronsingleterry10/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/aaronsingleterry10/github-readme-stats)
 
 <!--
